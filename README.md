@@ -5,7 +5,8 @@ Interactive Game based on Time Series Forecasting.
 ## Technologies Used
 - Flask
 - Python
-
+- HTML
+- SQL
 ## ARMA Models
 - Linear Autoregressive and Moving Average with order as a hyperparameter.
   - Estimated with OLS
