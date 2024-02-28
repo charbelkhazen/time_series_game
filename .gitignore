@@ -1,0 +1,29 @@
+# Ignore compiled binaries
+*.pdf
+
+# Ignore metadata files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+logs/
+temp/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled binaries
+*.png
+
+# Ignore compiled binaries
+*.svg
+

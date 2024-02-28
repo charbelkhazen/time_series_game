@@ -1,0 +1,35 @@
+body {
+    background-color:AntiqueWhite ;
+    color: black;
+    margin-top:10%;
+    text-align: left ;
+    margin-left: 15%;
+    font-family: OCR A Std, monospace;
+}
+a {
+    text-decoration:underline;
+    color: black;
+}
+
+a:hover {
+    color: darkblue;
+}
+
+hr {
+    border: 1px solid black;
+    width: 70%;
+    margin: 20px 0;
+}
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px; /* Adjust the size as needed */
+
+}
+
+.profile p {
+    margin-top: 10px;
+}
